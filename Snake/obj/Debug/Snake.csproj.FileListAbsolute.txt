@@ -1,0 +1,9 @@
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.SnakeForm.resources
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.Properties.Resources.resources
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Snake.exe.config
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Snake.exe
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Snake.pdb
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.exe
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Snake.pdb

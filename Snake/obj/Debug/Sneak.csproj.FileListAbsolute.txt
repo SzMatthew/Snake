@@ -1,0 +1,10 @@
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.csprojAssemblyReference.cache
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.Form1.resources
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.Properties.Resources.resources
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.csproj.GenerateResource.cache
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.csproj.CoreCompileInputs.cache
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Sneak.exe.config
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Sneak.exe
+D:\Programozás Fun Projectek\Sneak\Sneak\bin\Debug\Sneak.pdb
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.exe
+D:\Programozás Fun Projectek\Sneak\Sneak\obj\Debug\Sneak.pdb
